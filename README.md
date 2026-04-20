@@ -2,10 +2,10 @@
 Electricity Bill System Project with Terminal and GUI mode that calculates bill like MahaVitran (MSEB)\
 
 
-Menumode = Terminal\
+Menumode = Terminal
 
-GUImod = GUI + Excel\
+GUImod = GUI + Excel
 
-DBtry = GUI + Database\
+DBtry = GUI + Database
 
 Slab396 = for old Slab Rates before 2026
